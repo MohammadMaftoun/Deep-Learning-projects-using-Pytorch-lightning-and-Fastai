@@ -24,7 +24,6 @@ This repository contains deep learning projects utilizing PyTorch Lightning and 
 - **Transfer Learning**: The library encourages the use of transfer learning, making it easy to fine-tune pre-trained models for specific tasks.
 - **Integrated Data Processing**: fastai includes tools for easy data loading and processing, making it convenient to work with diverse datasets.
 - **Rich Documentation and Courses**: The library is accompanied by extensive documentation and courses, making it suitable for both beginners and experienced practitioners.
-
 ## Requirements
 
 - Python 3.x
@@ -38,12 +37,13 @@ Install the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 
-#Usage
+Usage
 
 Clone the repository:
 git clone https://github.com/MohammadMaftoun/Deep-Learning-projects-using-Pytorch-lightning-and-Fastai.git
 cd Deep-Learning-projects-using-Pytorch-lightning-and-Fastai
+```
 
-#Contributing
+## Contributing
 
 If you would like to contribute to this project, please open an issue or submit a pull request. All contributions are welcome!
