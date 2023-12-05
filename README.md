@@ -2,9 +2,7 @@
 ![Pyfst](https://miro.medium.com/v2/resize:fit:1400/1*xUKbaYzdWRbcrbtetRqoyg.png)
 
 
-PyTorch Lightning is a lightweight PyTorch wrapper that provides a high-level interface for training deep learning models. It is designed to simplify the training process, making it more readable, modular, and scalable. PyTorch Lightning abstracts away the boilerplate code traditionally associated with PyTorch training loops, allowing researchers and practitioners to focus on the core aspects of model development.
-Fastai is a deep learning library built on top of PyTorch. It aims to make deep learning more accessible and easier for practitioners by providing high-level abstractions and utilities. The library is developed by the team at fast.ai and is known for its simplicity, ease of use, and ability to achieve state-of-the-art results with minimal code.
-# PyTorch Lightning and fastai Image Classification
+PyTorch Lightning simplifies deep learning model training by offering a high-level interface, abstracting PyTorch training loop complexities. Fastai, built on PyTorch, enhances accessibility with high-level APIs, emphasizing transfer learning and integrated data processing for achieving state-of-the-art results with minimal code.
 
 This repository contains deep learning projects utilizing PyTorch Lightning and Fastai. These two libraries provide high-level abstractions and utilities to simplify the training and development of deep learning models.
 
