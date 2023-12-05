@@ -38,3 +38,8 @@ Install the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 
+#Usage
+
+Clone the repository:
+git clone https://github.com/MohammadMaftoun/Deep-Learning-projects-using-Pytorch-lightning-and-Fastai.git
+cd Deep-Learning-projects-using-Pytorch-lightning-and-Fastai
