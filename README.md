@@ -16,7 +16,7 @@ This repository contains deep learning projects utilizing PyTorch Lightning and 
 - **Multi-GPU Training**: Easily scale training to multiple GPUs with minimal code changes.
 - **Community and Extensions**: PyTorch Lightning has a growing community and supports various extensions through "Lightning Bolts" for additional functionalities.
 
-## About fastai
+## About Fastai
 
 [fastai](https://www.fast.ai/) is a deep learning library built on top of PyTorch, designed to make deep learning more accessible and easier for practitioners. It provides high-level abstractions for training models across various domains. Key features of fastai include:
 
