@@ -23,7 +23,7 @@ This repository contains deep learning projects utilizing PyTorch Lightning and 
 - **High-Level APIs**: fastai simplifies the creation of deep learning models with high-level APIs for vision, text, and tabular data.
 - **Transfer Learning**: The library encourages the use of transfer learning, making it easy to fine-tune pre-trained models for specific tasks.
 - **Integrated Data Processing**: fastai includes tools for easy data loading and processing, making it convenient to work with diverse datasets.
-- **Rich Documentation and Courses**: The library is accompanied by extensive documentation and courses, making it suitable for both beginners and experienced practitioners.
+- **Rich Documentation and Courses**: The library is attended by extensive documentation and courses, making it suitable for both beginners and experienced practitioners.
 ## Requirements
 
 - Python 3.x
