@@ -13,7 +13,7 @@ This repository contains deep learning projects such as computer vision, NLP, et
 - **Training Loop Abstraction**: Lightning simplifies the training loop, making it easy to train models with less code.
 - **Logging and Metrics Integration**: Integrated logging and metrics make it straightforward to monitor model performance.
 - **Checkpointing and Model Saving**: Lightning handles model saving and checkpointing automatically.
-- **Multi-GPU Training**: Easily scale training to multiple GPUs with minimal code changes.
+- **Multi-GPU Training**: Easily scale training to considerable GPUs with minimal code changes.
 - **Community and Extensions**: PyTorch Lightning has a growing community and supports various extensions through "Lightning Bolts" for additional functionalities.
 
 ## About Fastai
@@ -23,7 +23,7 @@ This repository contains deep learning projects such as computer vision, NLP, et
 - **High-Level APIs**: fastai simplifies the creation of deep learning models with high-level APIs for vision, text, and tabular data.
 - **Transfer Learning**: The library encourages the use of transfer learning, making it easy to fine-tune pre-trained models for specific tasks.
 - **Integrated Data Processing**: fastai includes tools for easy data loading and processing, making it convenient to work with diverse datasets.
-- **Rich Documentation and Courses**: The library is attended by extensive documentation and courses, making it suitable for both beginners and experienced practitioners.
+- **Rich Documentation and Courses**: The library is attended by extensive documentation and courses, making it convenient for both beginners and experienced practitioners.
 ## Requirements
 
 - Python 3.x
