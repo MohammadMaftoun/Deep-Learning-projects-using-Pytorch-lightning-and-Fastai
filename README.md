@@ -1,8 +1,7 @@
 # Deep-Learning-projects-using-Pytorch-lightning-and-Fastai
 ![Pyfst](https://miro.medium.com/v2/resize:fit:1400/1*xUKbaYzdWRbcrbtetRqoyg.png)
 
-
-PyTorch Lightning simplifies deep learning model training by offering a high-level interface, abstracting PyTorch training loop complexities. Fastai, built on PyTorch, enhances accessibility with high-level APIs, emphasizing transfer learning and integrated data processing for achieving state-of-the-art results with minimal code.
+Deep learning constitutes a recent, modern technique for image processing and data analysis, with promising results and large potential.PyTorch Lightning simplifies deep learning model training by offering a high-level interface, abstracting PyTorch training loop complexities. Fastai, built on PyTorch, enhances accessibility with high-level APIs, emphasizing transfer learning and integrated data processing for achieving state-of-the-art results with minimal code.
 
 This repository contains deep learning projects such as computer vision, NLP, etc utilizing PyTorch Lightning and Fastai. These two libraries provide high-level abstractions and utilities to simplify the training and development of deep learning models.
 
@@ -21,8 +20,8 @@ This repository contains deep learning projects such as computer vision, NLP, et
 [fastai](https://www.fast.ai/) is a deep learning library built on top of PyTorch, designed to make deep learning more accessible and easier for practitioners. It provides high-level abstractions for training models across various domains. Key features of Fastai include:
 
 - **High-Level APIs**: fastai simplifies the creation of deep learning models with high-level APIs for vision, text, and tabular data.
-- **Transfer Learning**: The library encourages the use of transfer learning, making it easy to fine-tune pre-trained models for specific tasks.
-- **Integrated Data Processing**: fastai includes tools for easy data loading and processing, making it convenient to work with diverse datasets.
+- **Transfer Learning**: The library encourages transfer learning, making it easy to fine-tune pre-trained models for specific tasks.
+- **Integrated Data Processing**: fastai includes easy data loading and processing tools, making it convenient to work with diverse datasets.
 - **Rich Documentation and Courses**: The library is attended by extensive documentation and courses, making it convenient for both beginners and experienced practitioners.
 ## Requirements
 
