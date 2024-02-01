@@ -19,9 +19,9 @@ This repository contains deep learning projects such as computer vision, NLP, et
 
 [fastai](https://www.fast.ai/) is a deep learning library built on top of PyTorch, designed to make deep learning more accessible and easier for practitioners. It provides high-level abstractions for training models across various domains. Key features of Fastai include:
 
-- **High-Level APIs**: fastai simplifies the creation of deep learning models with high-level APIs for vision, text, and tabular data.
+- **High-Level APIs**: Fastai simplifies the creation of deep learning models with high-level APIs for vision, text, and tabular data.
 - **Transfer Learning**: The library encourages transfer learning, making it easy to fine-tune pre-trained models for specific tasks.
-- **Integrated Data Processing**: fastai includes easy data loading and processing tools, making it convenient to work with diverse datasets.
+- **Integrated Data Processing**: Fastai includes easy data loading and processing tools, making it convenient to work with diverse datasets.
 - **Rich Documentation and Courses**: The library is attended by extensive documentation and courses, making it convenient for both beginners and experienced practitioners.
 ## Requirements
 
