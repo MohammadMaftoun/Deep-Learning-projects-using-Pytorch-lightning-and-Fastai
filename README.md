@@ -1,13 +1,13 @@
 # Deep-Learning-projects-using-Pytorch-lightning-and-Fastai
 ![Pyfst](https://miro.medium.com/v2/resize:fit:1400/1*xUKbaYzdWRbcrbtetRqoyg.png)
 
-Deep learning constitutes a recent, modern technique for image processing and data analysis, with promising results and large potential.PyTorch Lightning simplifies deep learning model training by offering a high-level interface, abstracting PyTorch training loop complexities. Fastai, built on PyTorch, enhances accessibility with high-level APIs, emphasizing transfer learning and integrated data processing for achieving state-of-the-art results with minimal code.
+Deep learning constitutes a recent, modern technique for image processing and data analysis, with promising results and large potential.PyTorch Lightning facilitates deep learning model training by offering a high-level interface, abstracting PyTorch training loop complexities. Fastai, built on PyTorch, enhances accessibility with high-level APIs, emphasizing transfer learning and integrated data processing for achieving state-of-the-art results with minimal code.
 
 This repository contains deep learning projects such as computer vision, NLP, etc utilizing PyTorch Lightning and Fastai. These two libraries provide high-level abstractions and utilities to simplify the training and development of deep learning models.
 
 ## About PyTorch Lightning
 
-[PyTorch Lightning](https://www.pytorchlightning.ai/) is a lightweight PyTorch wrapper that provides a high-level interface for training deep learning models. It abstracts away the boilerplate code traditionally associated with PyTorch training loops, making it more comfortable to focus on the research and development of models. Key features of PyTorch Lightning include:
+[PyTorch Lightning](https://www.pytorchlightning.ai/) is a lightweight PyTorch wrapper that provides a high-level interface for training deep learning models. It outlines away the boilerplate code traditionally associated with PyTorch training loops, making it more comfortable to focus on the research and development of models. Key features of PyTorch Lightning include:
 
 - **Training Loop Abstraction**: Lightning simplifies the training loop, making it easy to train models with less code.
 - **Logging and Metrics Integration**: Integrated logging and metrics make it straightforward to monitor model performance.
