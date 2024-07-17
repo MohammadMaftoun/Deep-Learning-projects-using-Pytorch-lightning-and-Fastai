@@ -3,7 +3,7 @@
 
 Deep learning constitutes a recent, modern technique for image processing and data analysis, with promising results and large potential.PyTorch Lightning facilitates deep learning model training by offering a high-level interface, abstracting PyTorch training loop complexities. Fastai, built on PyTorch, enhances accessibility with high-level APIs, emphasizing transfer learning and integrated data processing for achieving state-of-the-art results with minimal code.
 
-This repository contains deep learning projects such as computer vision, NLP, etc utilizing PyTorch Lightning and Fastai. These two libraries provide high-level abstractions and utilities to simplify the training and development of deep learning models.
+This repository includes deep learning projects such as computer vision, NLP, etc utilizing PyTorch Lightning and Fastai. These two libraries provide high-level abstractions and utilities to simplify the training and development of deep learning models.
 
 ## About PyTorch Lightning
 
